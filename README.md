@@ -31,6 +31,9 @@ use golang resolve problems in leetcode-cn.com
 [linked-list/195/753](./linked-list/195/753) | [奇偶链表](https://leetcode-cn.com/explore/learn/card/linked-list/195/classic-problems/753/) | 中等
 [linked-list/195/754](./linked-list/195/754) | [回文链表](https://leetcode-cn.com/explore/learn/card/linked-list/195/classic-problems/754/) | 简单
 [linked-list/196/759](./linked-list/196/759) | [设计链表](https://leetcode-cn.com/explore/learn/card/linked-list/196/doubly-linked-list/759/) | 简单
+[linked-list/197/762](./linked-list/197/762) | [合并两个有序链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/762/) | 简单
+[linked-list/197/763](./linked-list/197/763) | [两数相加](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/763/) | 中等
+[linked-list/197/764](./linked-list/197/764) | [扁平化多级双向链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/764/) | 中等
 [queue-stack/216/865](./queue-stack/216/865) | [设计循环队列](https://leetcode-cn.com/explore/learn/card/queue-stack/216/queue-first-in-first-out-data-structure/865/) | 中等
 [queue-stack/217/872](./queue-stack/217/872) | [岛屿的个数](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/872/) | 中等
 [queue-stack/217/873](./queue-stack/217/873) | [打开转盘锁](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/873/) | 中等
