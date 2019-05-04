@@ -34,6 +34,7 @@ use golang resolve problems in leetcode-cn.com
 [linked-list/197/762](./linked-list/197/762) | [合并两个有序链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/762/) | 简单
 [linked-list/197/763](./linked-list/197/763) | [两数相加](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/763/) | 中等
 [linked-list/197/764](./linked-list/197/764) | [扁平化多级双向链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/764/) | 中等
+[linked-list/197/767](./linked-list/197/767) | [旋转链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/767/) | 中等
 [queue-stack/216/865](./queue-stack/216/865) | [设计循环队列](https://leetcode-cn.com/explore/learn/card/queue-stack/216/queue-first-in-first-out-data-structure/865/) | 中等
 [queue-stack/217/872](./queue-stack/217/872) | [岛屿的个数](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/872/) | 中等
 [queue-stack/217/873](./queue-stack/217/873) | [打开转盘锁](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/873/) | 中等
