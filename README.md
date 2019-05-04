@@ -9,14 +9,6 @@ use golang resolve problems in leetcode-cn.com
 
 **源代码目录所对应的leetcode**
 
-.  
-├── [array-and-string](https://leetcode-cn.com/explore/learn/card/array-and-string/)  
-├── [linked-list](https://leetcode-cn.com/explore/learn/card/linked-list/)  
-└── [queue-stack](https://leetcode-cn.com/explore/learn/card/queue-stack/)  
-
-
----
-
 源码目录 | 题目 | 难度 | 备注
 --- | --- | --- | ---
 [array-and-string/198/770](./array-and-string/198/770) | [寻找数组的中心索引](https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/770/) | 简单
@@ -34,6 +26,7 @@ use golang resolve problems in leetcode-cn.com
 [linked-list/197/762](./linked-list/197/762) | [合并两个有序链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/762/) | 简单
 [linked-list/197/763](./linked-list/197/763) | [两数相加](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/763/) | 中等
 [linked-list/197/764](./linked-list/197/764) | [扁平化多级双向链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/764/) | 中等
+[linked-list/197/767](./linked-list/197/767) | [旋转链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/767/) | 中等
 [queue-stack/216/865](./queue-stack/216/865) | [设计循环队列](https://leetcode-cn.com/explore/learn/card/queue-stack/216/queue-first-in-first-out-data-structure/865/) | 中等
 [queue-stack/217/872](./queue-stack/217/872) | [岛屿的个数](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/872/) | 中等
 [queue-stack/217/873](./queue-stack/217/873) | [打开转盘锁](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/873/) | 中等
@@ -43,7 +36,7 @@ use golang resolve problems in leetcode-cn.com
 [queue-stack/218/879](./queue-stack/218/879) | [每日温度](https://leetcode-cn.com/explore/learn/card/queue-stack/218/stack-last-in-first-out-data-structure/879/) | 中等
 [queue-stack/218/880](./queue-stack/218/880) | [逆波兰表达式求值](https://leetcode-cn.com/explore/learn/card/queue-stack/218/stack-last-in-first-out-data-structure/880/) | 中等
 [queue-stack/219/883](./queue-stack/219/883) | [岛屿的个数](https://leetcode-cn.com/explore/learn/card/queue-stack/219/stack-and-dfs/883/) | 中等
-[queue-stack/219/884](./queue-stack/219/884) | [克隆图](https://leetcode-cn.com/explore/learn/card/queue-stack/219/stack-and-dfs/884/) | 中等 | go无内置gui库暂未实现
+[queue-stack/219/884](./queue-stack/219/884) | [克隆图](https://leetcode-cn.com/explore/learn/card/queue-stack/219/stack-and-dfs/884/) | 中等 | 暂未实现
 [queue-stack/219/885](./queue-stack/219/885) | [目标和](https://leetcode-cn.com/explore/learn/card/queue-stack/219/stack-and-dfs/885/) | 中等
 [queue-stack/219/887](./queue-stack/219/887) | [二叉树的中序遍历](https://leetcode-cn.com/explore/learn/card/queue-stack/219/stack-and-dfs/887/) | 中等
 [queue-stack/220/888](./queue-stack/220/888) | [用栈实现队列](https://leetcode-cn.com/explore/learn/card/queue-stack/220/conclusion/888/) | 简单
