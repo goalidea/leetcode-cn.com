@@ -15,6 +15,7 @@ use golang resolve problems in leetcode-cn.com
 [array-and-string/198/771](./array-and-string/198/771) | [至少是其他数字两倍的最大数](https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/771/) | 简单
 [array-and-string/198/772](./array-and-string/198/772) | [加一](https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/772/) | 简单
 [array-and-string/199/774](./array-and-string/199/774) | [对角线遍历](https://leetcode-cn.com/explore/learn/card/array-and-string/199/introduction-to-2d-array/774/) | 中等
+[array-and-string/199/775](./array-and-string/199/775) | [螺旋矩阵](https://leetcode-cn.com/explore/learn/card/array-and-string/199/introduction-to-2d-array/775/) | 中等
 [linked-list/193/741](./linked-list/193/741) | [设计链表](https://leetcode-cn.com/explore/learn/card/linked-list/193/singly-linked-list/741/) | 简单
 [linked-list/194/744](./linked-list/194/744) | [环形链表](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/744/) | 简单
 [linked-list/194/745](./linked-list/194/745) | [环形链表 II](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/745/) | 中等
@@ -28,6 +29,7 @@ use golang resolve problems in leetcode-cn.com
 [linked-list/197/762](./linked-list/197/762) | [合并两个有序链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/762/) | 简单
 [linked-list/197/763](./linked-list/197/763) | [两数相加](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/763/) | 中等
 [linked-list/197/764](./linked-list/197/764) | [扁平化多级双向链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/764/) | 中等
+[linked-list/197/766](./linked-list/197/766) | [复制带随机指针的链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/766/) | 中等 | 暂未实现
 [linked-list/197/767](./linked-list/197/767) | [旋转链表](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/767/) | 中等
 [queue-stack/216/865](./queue-stack/216/865) | [设计循环队列](https://leetcode-cn.com/explore/learn/card/queue-stack/216/queue-first-in-first-out-data-structure/865/) | 中等
 [queue-stack/217/872](./queue-stack/217/872) | [岛屿的个数](https://leetcode-cn.com/explore/learn/card/queue-stack/217/queue-and-bfs/872/) | 中等
