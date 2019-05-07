@@ -17,6 +17,7 @@ use golang resolve problems in leetcode-cn.com
 [array-and-string/199/774](./array-and-string/199/774) | [对角线遍历](https://leetcode-cn.com/explore/learn/card/array-and-string/199/introduction-to-2d-array/774/) | 中等
 [array-and-string/199/775](./array-and-string/199/775) | [螺旋矩阵](https://leetcode-cn.com/explore/learn/card/array-and-string/199/introduction-to-2d-array/775/) | 中等
 [array-and-string/199/776](./array-and-string/199/776) | [杨辉三角](https://leetcode-cn.com/explore/learn/card/array-and-string/199/introduction-to-2d-array/776/) | 简单
+[array-and-string/200/779](./array-and-string/200/779) | [二进制求和](https://leetcode-cn.com/explore/learn/card/array-and-string/200/introduction-to-string/779/) | 简单
 [linked-list/193/741](./linked-list/193/741) | [设计链表](https://leetcode-cn.com/explore/learn/card/linked-list/193/singly-linked-list/741/) | 简单
 [linked-list/194/744](./linked-list/194/744) | [环形链表](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/744/) | 简单
 [linked-list/194/745](./linked-list/194/745) | [环形链表 II](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/745/) | 中等
