@@ -20,6 +20,18 @@ use golang resolve problems in leetcode-cn.com
 [array-and-string/200/779](./array-and-string/200/779) | [二进制求和](https://leetcode-cn.com/explore/learn/card/array-and-string/200/introduction-to-string/779/) | 简单
 [array-and-string/200/780](./array-and-string/200/780) | [实现strStr()](https://leetcode-cn.com/explore/learn/card/array-and-string/200/introduction-to-string/780/) | 简单
 [array-and-string/200/781](./array-and-string/200/781) | [最长公共前缀](https://leetcode-cn.com/explore/learn/card/array-and-string/200/introduction-to-string/781/) | 简单
+[array-and-string/201/783](./array-and-string/201/783) | [反转字符串](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/783/) | 简单
+[array-and-string/201/784](./array-and-string/201/784) | [数组拆分 I](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/784/) | 简单
+[array-and-string/201/785](./array-and-string/201/785) | [两数之和 II - 输入有序数组](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/785/) | 简单
+[array-and-string/201/787](./array-and-string/201/787) | [移除元素](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/787/) | 简单
+[array-and-string/201/788](./array-and-string/201/788) | [最大连续1的个数](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/788/) | 简单
+[array-and-string/201/789](./array-and-string/201/789) | [长度最小的子数组](https://leetcode-cn.com/explore/learn/card/array-and-string/201/two-pointer-technique/789/) | 中等
+[array-and-string/202/791](./array-and-string/202/791) | [旋转数组](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/791/) | 简单
+[array-and-string/202/792](./array-and-string/202/792) | [杨辉三角 II](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/792/) | 简单
+[array-and-string/202/793](./array-and-string/202/793) | [翻转字符串里的单词](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/793/) | 中等
+[array-and-string/202/794](./array-and-string/202/794) | [反转字符串中的单词 III](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/794/) | 简单
+[array-and-string/202/795](./array-and-string/202/795) | [删除排序数组中的重复项](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/795/) | 简单
+[array-and-string/202/796](./array-and-string/202/796) | [移动零](https://leetcode-cn.com/explore/learn/card/array-and-string/202/conclusion/796/) | 简单
 [linked-list/193/741](./linked-list/193/741) | [设计链表](https://leetcode-cn.com/explore/learn/card/linked-list/193/singly-linked-list/741/) | 简单
 [linked-list/194/744](./linked-list/194/744) | [环形链表](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/744/) | 简单
 [linked-list/194/745](./linked-list/194/745) | [环形链表 II](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/745/) | 中等
